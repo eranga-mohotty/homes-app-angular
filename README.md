@@ -15,13 +15,9 @@
 
   `npm install` 
 
-- Run the JSON server
-  
-  `json-server --watch db.json`
-
 - Run the application
 
-  `npm start` or `ng serve`
+  `npm start`
 
 youtube link for tutorial -  https://youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF
 
